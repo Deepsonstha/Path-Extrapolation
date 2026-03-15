@@ -5,8 +5,10 @@ An interactive Flutter application demonstrating path extrapolation with geometr
 ## Demo
 
 ### Screenshot
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/f1bf7eee-6748-43d0-b1f7-6dad84f39183" />
 
 ### Video Demo
+https://github.com/user-attachments/assets/0a7b926a-6d54-4165-a0c9-9d64b1128b2c
 
 📹 **[Download Demo Video](demo/video.mp4)** (Click to download and watch)
 
